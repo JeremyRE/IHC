@@ -1,0 +1,30 @@
+*{
+    background-color: red;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    text-align: center;
+    color: goldenrod;
+    font-size: 42px;
+}
+ .Simon1{
+    border: 10px solid darkred;
+    border-radius: 5%;
+    margin-left:42%;
+ }
+ .Simon2{
+    border:10px solid goldenrod;
+   border-radius: 25%;
+    margin-left:40%;
+    margin-top: 5%;
+}
+.Simon3{
+   border-radius: 20%;
+    margin-left:30%;
+    margin-top: 5%;
+}
